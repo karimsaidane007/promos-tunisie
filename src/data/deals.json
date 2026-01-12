@@ -1,0 +1,6 @@
+{
+  "error": {
+    "type": "record-not-found",
+    "message": "Dataset was not found"
+  }
+}

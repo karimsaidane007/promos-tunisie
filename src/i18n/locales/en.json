@@ -1,0 +1,120 @@
+{
+  "common": {
+    "search": "Search",
+    "filters": "Filters",
+    "dashboard": "Dashboard",
+    "merchantDashboard": "Merchant Dashboard",
+    "viewOnFacebook": "View on Facebook",
+    "verified": "Verified",
+    "reset": "Reset",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "km": "km",
+    "daysAgo": "{{count}} day ago",
+    "daysAgo_plural": "{{count}} days ago"
+  },
+  "header": {
+    "search": "Search"
+  },
+  "home": {
+    "badge": "🔥 Over 12,000 deals indexed daily",
+    "title": "Find the Best",
+    "titleHighlight": "Facebook Deals",
+    "titleEnd": "in Your Area",
+    "subtitle": "Search thousands of promotions from trusted Facebook sellers. Save money on tech, fashion, home goods, and more.",
+    "searchPlaceholder": "Search for deals on electronics, fashion, home goods...",
+    "searchButton": "Search Deals",
+    "searchHint": "Find the best promotions from local Facebook sellers",
+    "stats": {
+      "activeDeals": "Active Deals",
+      "trustedSellers": "Trusted Sellers",
+      "averageSavings": "Average Savings",
+      "newDaily": "New Daily"
+    },
+    "footer": {
+      "copyright": "© 2024 SocialDeals. All rights reserved.",
+      "tagline": "Find the best deals from Facebook Marketplace and business pages."
+    }
+  },
+  "categories": {
+    "tech": "Tech & Electronics",
+    "fashion": "Fashion & Style",
+    "home": "Home & Living",
+    "food": "Food & Drinks"
+  },
+  "search": {
+    "resultsFor": "Results for \"{{query}}\"",
+    "allDeals": "All Deals",
+    "dealsFound": "{{count}} deal found",
+    "dealsFound_plural": "{{count}} deals found",
+    "searchDeals": "Search deals..."
+  },
+  "filters": {
+    "title": "Filters",
+    "categories": "Categories",
+    "priceRange": "Price Range: ${{min}} - ${{max}}",
+    "locationRadius": "Location Radius: {{radius}} km",
+    "trustedSellersOnly": "Trusted Sellers Only",
+    "trustedSellersDesc": "Show only verified sellers with high ratings",
+    "resetAll": "Reset All Filters"
+  },
+  "emptyState": {
+    "title": "No deals found",
+    "messageWithQuery": "We couldn't find any deals matching \"{{query}}\". Try adjusting your search or filters.",
+    "messageNoQuery": "No deals match your current filters. Try adjusting your criteria.",
+    "requestProduct": "Request this Product",
+    "notifyMessage": "We'll notify you when matching deals become available"
+  },
+  "dealCard": {
+    "discount": "-{{percent}}%",
+    "viewOnFacebook": "View on Facebook"
+  },
+  "dashboard": {
+    "title": "Merchant Dashboard",
+    "subtitle": "Add your Facebook business page to get your deals indexed and discovered by thousands of buyers.",
+    "addPage": {
+      "title": "Add Your Page",
+      "subtitle": "Submit your Facebook page URL for indexing",
+      "label": "Facebook Page URL",
+      "placeholder": "https://facebook.com/yourbusiness",
+      "indexing": "Indexing your page...",
+      "success": "Successfully Indexed!",
+      "startIndexing": "Start Indexing"
+    },
+    "benefits": {
+      "title": "What happens when you index your page:",
+      "instant": "Your deals appear in search results instantly",
+      "ai": "AI extracts pricing and categorizes your products",
+      "badge": "Get a verified seller badge after 10 successful sales"
+    },
+    "indexedPages": {
+      "title": "Your Indexed Pages",
+      "count": "{{count}} page",
+      "count_plural": "{{count}} pages",
+      "dealsFound": "{{count}} deals found",
+      "indexedDaysAgo": "Indexed {{days}} days ago",
+      "empty": "No pages indexed yet. Add your first page above!"
+    }
+  },
+  "aiDemo": {
+    "title": "AI Extraction Demo",
+    "subtitle": "See how our AI extracts deal information",
+    "trySample": "Try a sample:",
+    "placeholder": "Paste a Facebook post or deal description here...",
+    "extract": "Extract Deal Info",
+    "processing": "Processing...",
+    "extractedInfo": "Extracted Information",
+    "detectedPrice": "Detected Price",
+    "category": "Category",
+    "discount": "Discount",
+    "confidence": "Confidence: {{value}}%"
+  },
+  "toast": {
+    "requestSubmitted": "Request submitted!",
+    "requestDescription": "We'll notify you when matching deals become available.",
+    "invalidUrl": "Invalid URL",
+    "invalidUrlDesc": "Please enter a valid Facebook page URL.",
+    "pageIndexed": "Page indexed successfully!",
+    "pageIndexedDesc": "Found {{count}} deals on {{name}}."
+  }
+}

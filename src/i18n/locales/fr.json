@@ -1,0 +1,120 @@
+{
+  "common": {
+    "search": "Rechercher",
+    "filters": "Filtres",
+    "dashboard": "Tableau de bord",
+    "merchantDashboard": "Tableau de bord Marchand",
+    "viewOnFacebook": "Voir sur Facebook",
+    "verified": "Vérifié",
+    "reset": "Réinitialiser",
+    "submit": "Soumettre",
+    "loading": "Chargement...",
+    "km": "km",
+    "daysAgo": "il y a {{count}} jour",
+    "daysAgo_plural": "il y a {{count}} jours"
+  },
+  "header": {
+    "search": "Rechercher"
+  },
+  "home": {
+    "badge": "🔥 Plus de 12 000 offres indexées quotidiennement",
+    "title": "Trouvez les Meilleures",
+    "titleHighlight": "Offres Facebook",
+    "titleEnd": "Près de Chez Vous",
+    "subtitle": "Recherchez des milliers de promotions auprès de vendeurs Facebook de confiance. Économisez sur la tech, la mode, la maison et plus encore.",
+    "searchPlaceholder": "Rechercher des offres électronique, mode, maison...",
+    "searchButton": "Rechercher",
+    "searchHint": "Trouvez les meilleures promotions des vendeurs Facebook locaux",
+    "stats": {
+      "activeDeals": "Offres Actives",
+      "trustedSellers": "Vendeurs Vérifiés",
+      "averageSavings": "Économies Moyennes",
+      "newDaily": "Nouveautés Quotidiennes"
+    },
+    "footer": {
+      "copyright": "© 2024 SocialDeals. Tous droits réservés.",
+      "tagline": "Trouvez les meilleures offres sur Facebook Marketplace et les pages professionnelles."
+    }
+  },
+  "categories": {
+    "tech": "Tech & Électronique",
+    "fashion": "Mode & Style",
+    "home": "Maison & Déco",
+    "food": "Alimentation & Boissons"
+  },
+  "search": {
+    "resultsFor": "Résultats pour \"{{query}}\"",
+    "allDeals": "Toutes les Offres",
+    "dealsFound": "{{count}} offre trouvée",
+    "dealsFound_plural": "{{count}} offres trouvées",
+    "searchDeals": "Rechercher des offres..."
+  },
+  "filters": {
+    "title": "Filtres",
+    "categories": "Catégories",
+    "priceRange": "Fourchette de Prix: {{min}}$ - {{max}}$",
+    "locationRadius": "Rayon de Localisation: {{radius}} km",
+    "trustedSellersOnly": "Vendeurs Vérifiés Uniquement",
+    "trustedSellersDesc": "Afficher uniquement les vendeurs vérifiés avec de bonnes notes",
+    "resetAll": "Réinitialiser Tous les Filtres"
+  },
+  "emptyState": {
+    "title": "Aucune offre trouvée",
+    "messageWithQuery": "Nous n'avons trouvé aucune offre correspondant à \"{{query}}\". Essayez d'ajuster votre recherche ou vos filtres.",
+    "messageNoQuery": "Aucune offre ne correspond à vos filtres actuels. Essayez d'ajuster vos critères.",
+    "requestProduct": "Demander ce Produit",
+    "notifyMessage": "Nous vous notifierons lorsque des offres correspondantes seront disponibles"
+  },
+  "dealCard": {
+    "discount": "-{{percent}}%",
+    "viewOnFacebook": "Voir sur Facebook"
+  },
+  "dashboard": {
+    "title": "Tableau de bord Marchand",
+    "subtitle": "Ajoutez votre page Facebook professionnelle pour que vos offres soient indexées et découvertes par des milliers d'acheteurs.",
+    "addPage": {
+      "title": "Ajouter Votre Page",
+      "subtitle": "Soumettez l'URL de votre page Facebook pour indexation",
+      "label": "URL de la Page Facebook",
+      "placeholder": "https://facebook.com/votreentreprise",
+      "indexing": "Indexation de votre page...",
+      "success": "Indexation réussie !",
+      "startIndexing": "Commencer l'Indexation"
+    },
+    "benefits": {
+      "title": "Ce qui se passe quand vous indexez votre page :",
+      "instant": "Vos offres apparaissent instantanément dans les résultats de recherche",
+      "ai": "L'IA extrait les prix et catégorise vos produits",
+      "badge": "Obtenez un badge vendeur vérifié après 10 ventes réussies"
+    },
+    "indexedPages": {
+      "title": "Vos Pages Indexées",
+      "count": "{{count}} page",
+      "count_plural": "{{count}} pages",
+      "dealsFound": "{{count}} offres trouvées",
+      "indexedDaysAgo": "Indexé il y a {{days}} jours",
+      "empty": "Aucune page indexée. Ajoutez votre première page ci-dessus !"
+    }
+  },
+  "aiDemo": {
+    "title": "Démo d'Extraction IA",
+    "subtitle": "Découvrez comment notre IA extrait les informations des offres",
+    "trySample": "Essayez un exemple :",
+    "placeholder": "Collez une publication Facebook ou une description d'offre ici...",
+    "extract": "Extraire les Infos",
+    "processing": "Traitement...",
+    "extractedInfo": "Informations Extraites",
+    "detectedPrice": "Prix Détecté",
+    "category": "Catégorie",
+    "discount": "Réduction",
+    "confidence": "Confiance: {{value}}%"
+  },
+  "toast": {
+    "requestSubmitted": "Demande soumise !",
+    "requestDescription": "Nous vous notifierons lorsque des offres correspondantes seront disponibles.",
+    "invalidUrl": "URL Invalide",
+    "invalidUrlDesc": "Veuillez entrer une URL de page Facebook valide.",
+    "pageIndexed": "Page indexée avec succès !",
+    "pageIndexedDesc": "{{count}} offres trouvées sur {{name}}."
+  }
+}
